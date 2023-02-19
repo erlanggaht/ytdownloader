@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ytdownloader/static/css/main.a859cf89.css",
-    "main.js": "/ytdownloader/static/js/main.9cbb50d7.js",
+    "main.js": "/ytdownloader/static/js/main.d2b53111.js",
     "static/media/chrome.gif": "/ytdownloader/static/media/chrome.a3e44c28a63f8075d46d.gif",
     "static/media/firefox.gif": "/ytdownloader/static/media/firefox.b29d37dbeaedc2e484ea.gif",
     "static/media/image-error.png": "/ytdownloader/static/media/image-error.651b58eff2cbd8527d59.png",
     "static/media/image-tutorial.png": "/ytdownloader/static/media/image-tutorial.bd9088b772fe08d19613.png",
     "index.html": "/ytdownloader/index.html",
     "main.a859cf89.css.map": "/ytdownloader/static/css/main.a859cf89.css.map",
-    "main.9cbb50d7.js.map": "/ytdownloader/static/js/main.9cbb50d7.js.map"
+    "main.d2b53111.js.map": "/ytdownloader/static/js/main.d2b53111.js.map"
   },
   "entrypoints": [
     "static/css/main.a859cf89.css",
-    "static/js/main.9cbb50d7.js"
+    "static/js/main.d2b53111.js"
   ]
 }
